@@ -1,0 +1,380 @@
+/*////////////////////////////////////////////////////////////////////////
+Table of Contents:
+    1. Global Styles
+    2. Typografie
+    3. Areas
+        3.1 Header
+        3.2 Testimonial
+        3.3 Support
+        3.4 Faq
+        3.5 Footer
+////////////////////////////////////////////////////////////////////////*/
+
+
+
+/*////////////////////////
+    1. Global Styles
+////////////////////////*/
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Prompt:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+*, *:before, *:after {
+    box-sizing: border-box;
+}
+html, body {
+    max-width: 1336px;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    font-family: "poppins", sans-serif;
+
+}
+
+/*////////////////////////
+    2. Typography
+////////////////////////*/
+
+
+
+
+
+
+    .prompt-regular {
+        font-family: "Prompt", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+    }
+
+
+    .prompt-bold {
+        font-family: "Prompt", sans-serif;
+        font-weight: 700;
+        font-style: normal;
+    }
+
+    .prompt-extrabold {
+        font-family: "Prompt", sans-serif;
+        font-weight: 800;
+        font-style: normal;
+    }
+
+
+
+    .prompt-regular-italic {
+        font-family: "Prompt", sans-serif;
+        font-weight: 400;
+        font-style: italic;
+    }
+
+    .prompt-semibold-italic {
+        font-family: "Prompt", sans-serif;
+        font-weight: 600;
+        font-style: italic;
+    }
+
+    .prompt-bold-italic {
+        font-family: "Prompt", sans-serif;
+        font-weight: 700;
+        font-style: italic;
+    }
+
+
+
+
+
+
+
+/*////////////////////////
+    3. Areas
+////////////////////////*/
+/*
+header,
+main
+section
+section
+footer
+*/
+
+
+/*///////////// 3.1 Header /////////////*/
+.header-section {
+    background-image: url("mountains.jpg");
+    max-width: 1336px;
+    height: 520px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 350px;
+    padding: 40px 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+
+
+}
+.header-section h1{
+    text-align: center;
+    margin-bottom:  240px;
+    margin-left: -51px;
+    font-family: "Prompt-bold", sans-serif;
+    font-weight: 799;
+    font-size: 5rem;
+}
+.h1 {
+
+    font-style: normal;
+    margin-top: 2px;
+}
+
+
+.domain-check {
+    width: 50%;
+    color: #000000;
+    height: 40px;
+    border-radius: 999px;
+    border: 3px solid black;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 10px;
+    box-shadow: 0 8px 20px rgba(0,0,0,0.15);
+    background: transparent;
+    opacity: 0.4;
+
+
+}
+
+.domain-check p {
+    font-weight: 400;
+}
+
+.domain-check input {
+    flex: 2;
+    flex-grow: 0.1;
+    height: 100%;
+    border: 2px solid black;
+    border-top-right-radius: 0;
+    border-top-left-radius: 30px;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 30px;
+    padding: 0 20px;
+    font-size: 0.8rem;
+    outline: none;
+    margin-left: 400px;
+    margin-bottom: 460px;
+    color: black;
+
+}
+
+.domain-check input {
+    flex-basis: 0;
+}
+
+.domain-check button {
+    width: 50%;
+    height: 32px;
+    padding-top: 5px;
+    padding-right: 5px;
+    padding-left: 5px;
+    padding-bottom: 5px;
+    border: none;
+    background-color: black;
+    color: white;
+    border-radius: 0 40px 40px 0;
+    font-size: 0.8rem !important;
+    font-weight: 2;
+    cursor: pointer;
+    margin-bottom: 465px;
+    margin-right: 40px;
+}
+
+.domain-check button:hover {
+    background: #005fcc;
+}
+.domain-check button:active {
+    background: lawngreen;
+
+}
+.header-section button {
+    display: flex;
+    flex-direction: row;
+    font-family: 'Prompt', sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 14px;
+
+}
+.callcenter img {
+    max-width: 1336px;
+    max-height: 520px;
+    position: relative;
+    margin-right: 2px;
+}
+
+/*///////////// 3.2 Testimonial /////////////*/
+
+.reviews-section {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 30px;
+    margin: 70px auto 0 auto;
+    margin-left: 0;
+}
+
+.review-card {
+    width: 70%;
+    background: #ffffff;
+    border-radius: 30px;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    box-shadow: 0 8px 20px rgba(0,0,0,0.15);
+}
+.review-content h3 {
+    margin: 0;
+    font-size: 1.2rem;
+    font-weight: 600;
+
+}
+
+
+.review-content p {
+    margin-top: 8px;
+    font-size: 1rem;
+    color: #444;
+}
+    .review-card .avatar {
+        width: 44px;
+        height: 44px;
+        border-radius: 50%;
+        object-fit: cover;
+
+
+    }
+        .inline-icon {
+            width: 20px;
+            height: 20px;
+            vertical-align: middle;
+            margin-right: 8px;
+
+        }
+        .article-class {
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+            align-items: center;
+        }
+
+         .servicedesk figcaption h2 {
+             text-align: center;
+             margin-top: 30px;
+             margin-bottom: 30px;
+             font-family: "Prompt", sans-serif;
+         }
+
+.servicedesk figcaption h2 {
+    font-family: "poppins", sans-serif;
+    font-weight: 800;
+    font-style: normal;
+}
+.servicedesk figcaption h5 {
+    font-family: "Prompt", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    text-align: match-parent;
+    margin-left: 40px;
+}
+.contact-button {
+    background: black;
+    color: white;
+    font-size: 12px;
+    padding: 18px 26px;
+    border: none;
+    border-radius: 65px;
+    cursor: pointer;
+    margin-top: -5px;
+    margin-left: 38px;
+}
+
+.contact-button:hover {
+    background-color: #059862;
+    transform: translate(-2px);
+}
+
+
+
+/*/////////FAQ///////////*/
+        .faq-list {
+            list-style: none;
+
+        }
+    .summary {
+        padding: 10px 0;
+    }
+    summary:hover {
+        background: antiquewhite;
+        cursor: pointer;
+    }
+    summary {
+        font-family: "Prompt", sans-serif;
+        font-weight: 300;
+        font-size: 0.8rem;
+        padding: 10px 0;
+        cursor: pointer;
+        transition: 0.2s ease;
+
+    }
+
+summary {
+    font-size: 0.8rem;
+}
+
+details p {
+        font-family: "Prompt", sans-serif;
+        font-size: 0.8rem;
+        line-height: 1.2;
+        color: #000000;
+        margin: 18px 0 0 1.4px;
+        padding: 10px 10px;
+    }
+
+details {
+    margin-bottom: 20px;
+
+}
+
+    .faq-title  {
+        text-align: center;
+        font-family: "Prompt", sans-serif;
+        font-weight: 800;
+        margin-bottom: 20px;
+        font-size: 1.7rem;
+        line-height: 2.2;
+        letter-spacing: 0.5px;
+    }
+    /*/////////FOOTER//////////*/
+    .site-footer {
+        background-color: #244646;
+        width: 100%;
+        padding: 40px 20px;
+        text-align: center;
+        border-top: 2px solid #444444;
+        font-size: 1rem;
+    }
+    .site-footer h4 {
+        font-family: "Prompt", sans-serif;
+        font-weight: 200;
+        font-style: normal;
+        color: #F0F5F5;
+    }
+
+
+
+
+
+
+
+
