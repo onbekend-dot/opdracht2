@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1b4e00c9-6fc6-42fb-906e-d124243a0838" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opdracht2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/opdracht2/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/opdracht2/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/opdracht2/styles.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="35" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;onbekend-dot&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:onbekend-dot/opdracht2-06-09-2026.git&quot;,
+    &quot;accountId&quot;: &quot;2df05094-0a9a-4708-bfcc-f300f1cb9646&quot;
+  }
+}</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/opdracht2/mijnwebshop.html" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0000140655266243" />
+      <entry key="MS500" value="1.1657830992884903" />
+      <entry key="S2" value="3.058722000877448" />
+      <entry key="S5" value="5.457308117669384" />
+      <entry key="S10" value="8.078045591554961" />
+      <entry key="S30" value="13.822210397639902" />
+      <entry key="S60" value="19.59734350647933" />
+      <entry key="M2" value="29.579660152240745" />
+      <entry key="M5" value="54.195757116098136" />
+      <entry key="M10" value="84.67953943898962" />
+      <entry key="M15" value="110.31217985560163" />
+      <entry key="M30" value="166.561932544562" />
+      <entry key="H1" value="238.2695663075554" />
+      <entry key="H2" value="344.9552730176085" />
+      <entry key="H4" value="491.22830557522593" />
+      <entry key="D1" value="1054.0225646715255" />
+      <entry key="W1" value="1421.8631507821613" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="1.197837E-318" />
+      <entry key="S30" value="1.0620203357594268E-106" />
+      <entry key="S60" value="1.0305445839511772E-53" />
+      <entry key="M2" value="3.213827187417329E-27" />
+      <entry key="M5" value="2.8936639688787794E-11" />
+      <entry key="M10" value="9.850696896059847E-6" />
+      <entry key="M15" value="8.614745906245285E-4" />
+      <entry key="M30" value="0.0940294998076303" />
+      <entry key="H1" value="1.2617179515509318" />
+      <entry key="H2" value="5.637996502133786" />
+      <entry key="H4" value="13.527515865843991" />
+      <entry key="D1" value="45.01246934784346" />
+      <entry key="W1" value="64.52144122197065" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.8526479164924056" />
+      <entry key="MS500" value="1.130853065382895" />
+      <entry key="S2" value="3.031726910295248" />
+      <entry key="S5" value="5.436784654808363" />
+      <entry key="S10" value="8.062705732266881" />
+      <entry key="S30" value="13.813398565099174" />
+      <entry key="S60" value="19.590879419414026" />
+      <entry key="M2" value="29.57339915256926" />
+      <entry key="M5" value="54.18933788811252" />
+      <entry key="M10" value="84.6741225573577" />
+      <entry key="M15" value="110.30825611098291" />
+      <entry key="M30" value="166.65067635369377" />
+      <entry key="H1" value="239.51864003458778" />
+      <entry key="H2" value="350.5701899028426" />
+      <entry key="H4" value="504.7295033149951" />
+      <entry key="D1" value="1099.020049566414" />
+      <entry key="W1" value="1486.3814430366733" />
+    </decayedShown>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3IjFTRAG2xuxXt9SlP47ZZfMhE3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;javascript.preferred.runtime.type.id&quot;: &quot;node&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/vfolk/WebstormProjects/untitled4-edhub/untitled/opdracht2&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.jshint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.jshint&quot;: &quot;&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.completion&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;CSS&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\vfolk\WebstormProjects\untitled4-edhub\untitled\opdracht2" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\vfolk\WebstormProjects\untitled4-edhub\untitled\opdracht2\.idea" />
+      <recent name="C:\Users\vfolk\WebstormProjects\untitled4-edhub\untitled\opdracht2\.idea\images" />
+      <recent name="C:\Users\vfolk\WebstormProjects\untitled4-edhub\untitled\opdracht2\opdracht2" />
+      <recent name="C:\Users\vfolk\WebstormProjects\untitled4-edhub\untitled\opdracht2\images" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-WS-262.9437.145" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1b4e00c9-6fc6-42fb-906e-d124243a0838" name="Changes" comment="" />
+      <created>1788270077868</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1788270077868</updated>
+      <workItem from="1788270078887" duration="10194000" />
+      <workItem from="1788554796719" duration="59719000" />
+      <workItem from="1788709473729" duration="232000" />
+      <workItem from="1788710131439" duration="3015000" />
+      <workItem from="1788715977702" duration="5732000" />
+      <workItem from="1788760302031" duration="1756000" />
+      <workItem from="1788782231721" duration="38000" />
+      <workItem from="1789067273926" duration="880000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
