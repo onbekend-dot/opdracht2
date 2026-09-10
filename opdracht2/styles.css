@@ -98,7 +98,7 @@ footer
 
 /*///////////// 3.1 Header /////////////*/
 .header-section {
-    background-image: url("mountains.jpg");
+    background-image: url("../.idea/mountains.jpg");
     max-width: 1336px;
     height: 520px;
     background-size: cover;
